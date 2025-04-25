@@ -3,13 +3,13 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Fomalhaut🥝
-subtitle: 
-description: 'Future is now 🍭🍭🍭'
-keywords: 'Java,MySQL,算法,代码,博客,Butterfly,Hexo,Fomalhaut🥝,Fomalhaut'
-author: Fomalhaut🥝
+title: 粉白妙妙屋
+subtitle: 喵喵屋
+description: '廖宁宁的博客'
+keywords: '粉白'
+author: 廖宁宁
 language: zh-CN
-timezone: ''
+timezone: 'Asia/Shanghai'
 
 # abbrlink config
 abbrlink:
